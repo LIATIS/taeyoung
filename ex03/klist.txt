@@ -1,0 +1,5 @@
+Credentials cache: API:745ECBE9-9F79-499F-AEA0-AE76A402FCE0
+        Principal: tae-kim@42SEOUL.KR
+
+  Issued                Expires             Flags    Principal
+May 25 20:46:27 2020  May 26 06:46:27 2020  FPRIA  krbtgt/42SEOUL.KR@42SEOUL.KR
