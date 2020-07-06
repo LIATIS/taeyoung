@@ -1,0 +1,7 @@
+all:
+		cc -o hello main.c fct.cc
+
+coucou:
+		echo salut
+		ls plouf
+		echo bonjour
